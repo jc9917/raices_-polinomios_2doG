@@ -1,0 +1,3 @@
+module LadoTriang {
+	exports Polinomio;
+}
