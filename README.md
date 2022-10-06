@@ -1,2 +1,3 @@
-# raices_-polinomios_2doG
-Raices de un polinomio java 
+# Producto SW_Pruebas unitarias
+- Raices de un polinomio Java 
+- Tipo de triángulos Java
